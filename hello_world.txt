@@ -1,0 +1,10 @@
+
+hola mundo, esta soy yo escribiendo en linux
+
+
+abri este archivo pero no soy muy buena escribiendo en vi
+
+lo mejor es abrir y editar archivos de texto simple con el comando nano
+
+
+hoy me siento muy bien 
